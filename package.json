@@ -58,7 +58,7 @@
     "simple-sha1": "^2.0.0",
     "speedometer": "^1.0.0",
     "thunky": "^0.1.0",
-    "torrent-discovery": "^4.0.0",
+    "torrent-discovery": "^8.0.0",
     "torrent-piece": "^1.0.0",
     "uniq": "^1.0.1",
     "ut_metadata": "^3.0.1",
